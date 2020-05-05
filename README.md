@@ -4,7 +4,7 @@
 
 |Nr|Topic|Solution|
 |---|---|---|
-|04|Amazon EC2|[CustomerRequestHandler.java](./src/main/java/seminar/CustomerRequestHandler.java)|
+|06|Amazon Lambda|[CustomerRequestHandler.java](./src/main/java/seminar/CustomerRequestHandler.java)|
 
 ## Build
 
